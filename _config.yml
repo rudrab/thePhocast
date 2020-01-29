@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: [Phocast]
 description: [A beautiful app to find the beautiful light]
+github:
+  is_project_page: false
