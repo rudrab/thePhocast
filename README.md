@@ -1,9 +1,11 @@
-## Welcome to the Phocast 
+## Welcome to the Phocast,
+the best app to find the best light condition today.
 
-the app to find the best light condition today.
+Ok, no more tall clames. This is another app to simply show SunPhase today, at your current location.
 
-Ok, no more tall clames. This is another app to simply show SunPhase
+### ToDo
+* Not only today, but also tomorrow, day after tomorrow and ...
+* Not only current location, but also your dream location.
 
-
-### Support or Contact
+### Support the Developer
 Buy me coffee via [paypal](https://paypal.me/banerjeerudra?locale.x=en_GB).
