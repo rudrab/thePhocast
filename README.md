@@ -5,7 +5,10 @@ Ok, no more tall clames. This is another app to simply show SunPhase today, at y
 
 ### ToDo
 * Not only today, but also tomorrow, day after tomorrow and ...
-* Not only current location, but also your dream location.
+
+### Known Bugs
+* Dark mode is not working properly
+  * After start, refresh the app to get the Dark mode.
 
 ### Support the Developer
 Buy me coffee via [paypal](https://paypal.me/banerjeerudra?locale.x=en_GB).
