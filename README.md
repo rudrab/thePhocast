@@ -3,7 +3,10 @@ the best app to find the best light condition today. It helps you take better pi
 
 Ok, no more tall clames. This is another app to simply show SunPhase today, at you current or selected location today.
 
-### ToDo
+- [To Do](#todo)
+- [Known Bugs](#knownbugs)
+
+### To Do
 * Not only today, but also tomorrow, day after tomorrow and ...
 * Save your selected search for a happy tomorrow.
 
