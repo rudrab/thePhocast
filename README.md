@@ -5,6 +5,7 @@ Ok, no more tall clames. This is another app to simply show SunPhase today, at y
 
 ### ToDo
 * Not only today, but also tomorrow, day after tomorrow and ...
+* Save your selected search for a happy tomorrow ..
 
 ### Known Bugs
 * Dark mode is not working properly
